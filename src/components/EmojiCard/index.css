@@ -1,0 +1,23 @@
+.container {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  flex-wrap: wrap;
+  padding-top: 30px;
+}
+.button-container {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 40px;
+  background-color: #ffffff33;
+  padding-bottom: 40px;
+
+  border-radius: 8px;
+  cursor: pointer;
+  outline: none;
+  border-width: 0px;
+}
+.emoji {
+  width: 90%;
+}

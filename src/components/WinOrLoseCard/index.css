@@ -1,0 +1,43 @@
+.emoji-won {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  align-self: center;
+  padding-top: 20px;
+  background-color: #ffffff33;
+  margin: 100px;
+  width: 40%;
+  margin-left: 500px;
+  height: 40vh;
+  padding-bottom: 20px;
+  border-radius: 14px;
+}
+.image-2 {
+  width: 30%;
+}
+.para1 {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
+.para2 {
+  color: #6a59ff;
+  font-size: 28px;
+  font-weight: bold;
+}
+.button {
+  background-color: #ffce27;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  border-width: 0px;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+}
+.para {
+  color: #ffffff;
+}

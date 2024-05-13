@@ -1,0 +1,5 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  background-size: cover;
+  height: 100vh;
+}
